@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, NextJs, GraphQL**
 
-- 📫 How to reach me **LoQeN00@o2.pl**
+- 📫 How to reach me **mateuszkozlowskidev@gmail.com**
 
 - ⚡ Fun fact **I'am good at cooking**
 
