@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateusz Kozłowski</h1>
-<h3 align="center">I like to build modern web applications using react. I'm also very passionate about graphql. Currently, I'm looking for a job as a junior frontend developer.</h3>
+<h3 align="center">I like to build modern web applications using react. I'm also very passionate about graphql. Currently, I'm working as a fullstack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loqen00&label=Profile%20views&color=0e75b6&style=flat" alt="loqen00" /> </p>
 
